@@ -1,0 +1,26 @@
+C:\Users\adghedy\OneDrive\Desktop\ShowHiddenElements\ShowHiddenElements\obj\x64\Debug\ShowHiddenElements.csproj.CoreCompileInputs.cache
+C:\Users\adghedy\OneDrive\Desktop\Automation tools\ShowHiddenElements\ShowHiddenElements\obj\x64\Debug\ShowHiddenElements.csproj.AssemblyReference.cache
+C:\Users\adghedy\OneDrive\Desktop\Automation tools\ShowHiddenElements\ShowHiddenElements\obj\x64\Debug\ShowHiddenElements.csproj.CoreCompileInputs.cache
+C:\Users\adghedy\OneDrive\Desktop\Automation tools\ShowHiddenElements\ShowHiddenElements\bin\x64\Debug\ShowHiddenElements.addin
+C:\Users\adghedy\OneDrive\Desktop\Automation tools\ShowHiddenElements\ShowHiddenElements\bin\x64\Debug\ShowHiddenElements.dll.config
+C:\Users\adghedy\OneDrive\Desktop\Automation tools\ShowHiddenElements\ShowHiddenElements\bin\x64\Debug\ShowHiddenElements.dll
+C:\Users\adghedy\OneDrive\Desktop\Automation tools\ShowHiddenElements\ShowHiddenElements\bin\x64\Debug\ShowHiddenElements.pdb
+C:\Users\adghedy\OneDrive\Desktop\Automation tools\ShowHiddenElements\ShowHiddenElements\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\adghedy\OneDrive\Desktop\Automation tools\ShowHiddenElements\ShowHiddenElements\bin\x64\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\adghedy\OneDrive\Desktop\Automation tools\ShowHiddenElements\ShowHiddenElements\bin\x64\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\adghedy\OneDrive\Desktop\Automation tools\ShowHiddenElements\ShowHiddenElements\bin\x64\Debug\Prism.dll
+C:\Users\adghedy\OneDrive\Desktop\Automation tools\ShowHiddenElements\ShowHiddenElements\bin\x64\Debug\Prism.pdb
+C:\Users\adghedy\OneDrive\Desktop\Automation tools\ShowHiddenElements\ShowHiddenElements\bin\x64\Debug\Prism.Wpf.dll
+C:\Users\adghedy\OneDrive\Desktop\Automation tools\ShowHiddenElements\ShowHiddenElements\bin\x64\Debug\Prism.Wpf.pdb
+C:\Users\adghedy\OneDrive\Desktop\Automation tools\ShowHiddenElements\ShowHiddenElements\bin\x64\Debug\ServiceStack.Common.dll
+C:\Users\adghedy\OneDrive\Desktop\Automation tools\ShowHiddenElements\ShowHiddenElements\bin\x64\Debug\ServiceStack.Interfaces.dll
+C:\Users\adghedy\OneDrive\Desktop\Automation tools\ShowHiddenElements\ShowHiddenElements\bin\x64\Debug\ServiceStack.Text.dll
+C:\Users\adghedy\OneDrive\Desktop\Automation tools\ShowHiddenElements\ShowHiddenElements\bin\x64\Debug\System.Buffers.dll
+C:\Users\adghedy\OneDrive\Desktop\Automation tools\ShowHiddenElements\ShowHiddenElements\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adghedy\OneDrive\Desktop\Automation tools\ShowHiddenElements\ShowHiddenElements\bin\x64\Debug\System.Memory.dll
+C:\Users\adghedy\OneDrive\Desktop\Automation tools\ShowHiddenElements\ShowHiddenElements\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\adghedy\OneDrive\Desktop\Automation tools\ShowHiddenElements\ShowHiddenElements\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\adghedy\OneDrive\Desktop\Automation tools\ShowHiddenElements\ShowHiddenElements\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\adghedy\OneDrive\Desktop\Automation tools\ShowHiddenElements\ShowHiddenElements\obj\x64\Debug\ShowHiddenElements.csproj.CopyComplete
+C:\Users\adghedy\OneDrive\Desktop\Automation tools\ShowHiddenElements\ShowHiddenElements\obj\x64\Debug\ShowHiddenElements.dll
+C:\Users\adghedy\OneDrive\Desktop\Automation tools\ShowHiddenElements\ShowHiddenElements\obj\x64\Debug\ShowHiddenElements.pdb

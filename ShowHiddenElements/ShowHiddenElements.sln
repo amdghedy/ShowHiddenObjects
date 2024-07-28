@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowHiddenElements", "ShowHiddenElements\ShowHiddenElements.csproj", "{B88C33BB-B30B-4A9C-9D48-5827D63F6C44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B88C33BB-B30B-4A9C-9D48-5827D63F6C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88C33BB-B30B-4A9C-9D48-5827D63F6C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88C33BB-B30B-4A9C-9D48-5827D63F6C44}.Debug|x64.ActiveCfg = Debug|x64
+		{B88C33BB-B30B-4A9C-9D48-5827D63F6C44}.Debug|x64.Build.0 = Debug|x64
+		{B88C33BB-B30B-4A9C-9D48-5827D63F6C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88C33BB-B30B-4A9C-9D48-5827D63F6C44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B88C33BB-B30B-4A9C-9D48-5827D63F6C44}.Release|x64.ActiveCfg = Release|x64
+		{B88C33BB-B30B-4A9C-9D48-5827D63F6C44}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96FE84BB-CF54-4976-98B2-571BDABFE45E}
+	EndGlobalSection
+EndGlobal

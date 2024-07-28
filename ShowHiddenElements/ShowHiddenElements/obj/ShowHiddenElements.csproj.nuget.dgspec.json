@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\adghedy\\OneDrive\\Desktop\\Automation tools\\ShowHiddenElements\\ShowHiddenElements\\ShowHiddenElements.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\adghedy\\OneDrive\\Desktop\\Automation tools\\ShowHiddenElements\\ShowHiddenElements\\ShowHiddenElements.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\adghedy\\OneDrive\\Desktop\\Automation tools\\ShowHiddenElements\\ShowHiddenElements\\ShowHiddenElements.csproj",
+        "projectName": "ShowHiddenElements",
+        "projectPath": "C:\\Users\\adghedy\\OneDrive\\Desktop\\Automation tools\\ShowHiddenElements\\ShowHiddenElements\\ShowHiddenElements.csproj",
+        "packagesPath": "C:\\Users\\adghedy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adghedy\\OneDrive\\Desktop\\Automation tools\\ShowHiddenElements\\ShowHiddenElements\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\adghedy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Microsoft.Bcl.AsyncInterfaces": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            },
+            "ServiceStack.Common": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "ServiceStack.Interfaces": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "ServiceStack.Text": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "System.Buffers": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            },
+            "System.Diagnostics.DiagnosticSource": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Memory": {
+              "target": "Package",
+              "version": "[4.5.5, )"
+            },
+            "System.Numerics.Vectors": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Runtime.CompilerServices.Unsafe": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Threading.Tasks.Extensions": {
+              "target": "Package",
+              "version": "[4.5.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

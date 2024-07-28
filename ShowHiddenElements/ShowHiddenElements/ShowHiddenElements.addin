@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>RevitAddin</Name>
+		<FullClassName>RevitAddin.App</FullClassName>
+		<Text>ShowHidden</Text>
+		<Description>Show Hidden</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>ShowHiddenElements.dll</Assembly>
+		<AddInId>5A514F09-889A-400E-A796-BC626F1FD280</AddInId>
+		<VendorId>Amdghedy</VendorId>
+		<VendorDescription>Abdelrahim Deghidy, BIM Manager, Revit Developer Tel: +201001877018</VendorDescription>
+	</AddIn>
+</RevitAddIns>
